@@ -38,7 +38,7 @@ export const OppositeDirection = Object.freeze({
 
 export const Delta = Object.freeze({
   up: { x: 0, y: -1 },
-  rigt: { x: 1, y: 0 },
+  right: { x: 1, y: 0 },
   left: { x: -1, y: 0 },
   down: { x: 0, y: 1 },
 });
